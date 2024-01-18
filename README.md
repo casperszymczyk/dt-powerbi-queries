@@ -1,4 +1,4 @@
-# Querying Multi-Page ynatrace API Using Power Query M Function
+# Querying Multi-Page Dynatrace API Using Power Query M Function
 
 User guide:
 1. Create a new blank report (New -> Get Data -> Other -> Blank Query -> Connect)
